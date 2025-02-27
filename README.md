@@ -26,7 +26,7 @@
 ---
 
 ## 📬 Connect With Me  
-🔗 **LinkedIn:** [Priya Kotera](https://www.linkedin.com/in/priya-kotera)  
+🔗 **LinkedIn:** [Priya Kotera](https://www.linkedin.com/in/priya-kotera-988287249/)  
 
 ![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyaKotera16&show_icons=true&theme=radical)
 
