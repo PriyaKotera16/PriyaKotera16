@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Priya Kotera  
 
-👀 I’m passionate about the **Data Science* field, with a strong interest in **Data Analytics**.  
+👀 I’m passionate about the Data Science field, with a strong interest in **Data Analytics**.  
 🌱 Currently learning **Advanced SQL** & **Computer Vision**.  
 💞️ Looking to collaborate on **SQL-related projects** or any **Image Processing tasks**.  
 
