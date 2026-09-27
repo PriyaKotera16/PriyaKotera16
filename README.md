@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-🔹 Python | SQL | Pandas | NumPy | Excel | OpenCV | Machine Learning  
+🔹 Python | SQL | Pandas | NumPy | Excel | Machine Learning  
 
 ---
 
